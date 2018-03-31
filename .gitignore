@@ -1,0 +1,6 @@
+/target/
+/pom.xml
+/.settings/
+/.classpath
+/.project
+/log4j-1.2.14.jar
